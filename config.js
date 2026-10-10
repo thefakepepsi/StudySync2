@@ -1,6 +1,6 @@
 
 window.SS_CONFIG = {
-  GROQ_API_KEY: "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",
+  GROQ_API_KEY: "",
 
   // Waypoint "Ask an Expert" meeting links
   MEET_LINK: "https://meet.google.com/dsg-ttwb-rmk",
